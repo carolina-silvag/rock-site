@@ -1,6 +1,54 @@
-@media (min-width: 200px) and (max-width: 824px) {
+@media (min-width: 535px) and (max-width: 824px) {
   [class*="col-"]{
     width: 100%;
+  }
+  [class*="title"]{
+    margin: 0;
+  }
+  [class*="rockUno"]{
+    width: 200px;
+    height: 200px;
+  }
+  [class*="rockDos"]{
+    width: 200px;
+    height: 200px;
+  }
+  [class*="rockTres"]{
+    width: 200px;
+    height: 200px;
+  }
+  [class*="visible"]{
+    display: none;
+  }
+  [class*="invisible"]{
+    display: inline-block;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 534px) {
+  [class*="col-"]{
+    width: 100%;
+  }
+  [class*="title"]{
+    margin: 0;
+  }
+  [class*="rockUno"]{
+    width: 100px;
+    height: 100px;
+  }
+  [class*="rockDos"]{
+    width: 100px;
+    height: 100px;
+  }
+  [class*="rockTres"]{
+    width: 100px;
+    height: 100px;
+  }
+  [class*="visible"]{
+    display: none;
+  }
+  [class*="invisible"]{
+    display: inline-block;
   }
 }
 
