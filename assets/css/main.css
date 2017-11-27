@@ -8,15 +8,18 @@
 }
 .browser{
   float: right;
+  margin-right: 5%;
 }
 .browser ul{
   text-decoration: none;
   margin: 0;
   padding: 0;
+  width: 120%;
 }
 .browser ul li{
   color: #d2d4d5;
-  display: inline-block; 
+  display: inline-block;
+  padding: 2%; 
 }
 .browser a li:hover{
   color: #62676c;
