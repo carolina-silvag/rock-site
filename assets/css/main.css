@@ -31,6 +31,9 @@
   padding: 20%;
   border-radius: 3px;
 }
+.oculto:hover{
+  color: #62676c;
+}
 
 /*section de primera foto como fondo*/
 .imgHeader{
