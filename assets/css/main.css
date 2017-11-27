@@ -34,6 +34,7 @@
   opacity: 0.9;
 }*/
 .title{
+  display: inline-block;
   color:#FFF;
   text-align: center;
   margin: 20%;
@@ -116,6 +117,5 @@
 .footer{
   text-align: center;
   color: #FFF;
-  font-size: 80%;
   margin: 3%;
 }
