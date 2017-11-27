@@ -21,6 +21,13 @@
 .browser a li:hover{
   color: #62676c;
 }
+.oculto{
+  display: none;
+  color: #d2d4d5;
+  border: 1px solid #d2d4d5;
+  padding: 20%;
+  border-radius: 3px;
+}
 
 /*section de primera foto como fondo*/
 .imgHeader{

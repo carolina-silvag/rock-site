@@ -2,25 +2,22 @@
   [class*="col-"]{
     width: 100%;
   }
-  [class*="title"]{
-    margin: 0;
-  }
   [class*="rockUno"]{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
   }
   [class*="rockDos"]{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
   }
   [class*="rockTres"]{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
   }
   [class*="visible"]{
     display: none;
   }
-  [class*="invisible"]{
+  [class*="oculto"]{
     display: inline-block;
   }
 }
@@ -31,23 +28,24 @@
   }
   [class*="title"]{
     margin: 0;
+    margin-top: 10%;
   }
   [class*="rockUno"]{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
   [class*="rockDos"]{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
   [class*="rockTres"]{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
   [class*="visible"]{
     display: none;
   }
-  [class*="invisible"]{
+  [class*="oculto"]{
     display: inline-block;
   }
 }
